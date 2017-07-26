@@ -1,3 +1,3 @@
 # java-webscraping
 
-How to scap data from web pages using java Jsoup plugin.
+How to scrap data from web pages using java Jsoup plugin.
